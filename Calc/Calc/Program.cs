@@ -1,4 +1,5 @@
-﻿Console.WriteLine("Перове число:");
+﻿Console.WriteLine("Здравствуйте!");
+Console.WriteLine("Перове число:");
 double x1 = Convert.ToDouble(Console.ReadLine());
 Console.WriteLine("Введите оператор (+,-,*,/,^):*");
 char op = Convert.ToChar(Console.ReadLine());
